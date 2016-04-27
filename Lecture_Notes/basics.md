@@ -25,7 +25,8 @@ SELECT col1 AS New_Column
   FROM table_name
   LIMIT 15
 ```
-* The `WHERE` clause can be used to filter rows based on certain criteria for column values. e.g.
+* The `WHERE` clause can be used to filter rows based on certain criteria for column values. 
+Note, however, that this will also filter out NULL values. e.g.
 ```sql
 SELECT *
   FROM table_name
