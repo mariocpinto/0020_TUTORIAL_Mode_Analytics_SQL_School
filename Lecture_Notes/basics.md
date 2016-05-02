@@ -1,5 +1,7 @@
 ### Basics:
 
+The notes below are from [this section](https://sqlschool.modeanalytics.com/the-basics/) of the tutorial.
+
 * To select a set of columns from a table, use:
 ```sql
 SELECT * FROM table_name
