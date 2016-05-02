@@ -1,5 +1,7 @@
 ### Intermediate:
 
+The notes below are from [this section](https://sqlschool.modeanalytics.com/intermediate/) of the tutorial.
+
 * Aggregation functions `COUNT`, `MIN`, `MAX`, `SUM`, `AVG` are used to perform operations across entire columns.
 * To count the total number of rows in a table, use `COUNT(*)` or `COUNT(1)`.
 To count the non-null entries in a column, use `COUNT(column_name)`.
